@@ -111,9 +111,8 @@ Got some interesting things in the pipeline — working on projects around **mes
 ---
 
 ## 📬 Reach me
-
+<!-- [![Website](https://img.shields.io/badge/nikhiltyagi.dev-000000?style=flat&logo=safari&logoColor=white)](https://nikhiltyagi.dev) -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/nk-tyagi)
-[![Website](https://img.shields.io/badge/nikhiltyagi.dev-000000?style=flat&logo=safari&logoColor=white)](https://nikhiltyagi.dev)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@nkroker)
 [![Twitter](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/nkrokerOfficial)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/nkroker)
