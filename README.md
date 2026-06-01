@@ -84,6 +84,16 @@ One-shot bash script to install and configure Docker + Kubernetes on Ubuntu 20.0
 
 ---
 
+## 🤝 Open Source Contributions
+
+| Project | Description |
+|---|---|
+| [miromannino/Contributions-Importer-For-Github](https://github.com/miromannino/Contributions-Importer-For-Github) | Import contributions from private/external repos into GitHub's contribution graph |
+| [moritzheiber/ruby-jemalloc-docker](https://github.com/moritzheiber/ruby-jemalloc-docker) | Ruby Docker image compiled with jemalloc for reduced memory overhead |
+| [apache/kvrocks](https://github.com/apache/kvrocks) | Distributed key-value store built on RocksDB, compatible with Redis protocol |
+
+---
+
 ## 🔭 What's coming
 
 Got some interesting things in the pipeline — working on projects around **mesh-based NPU AI models**, **developer tooling powered by MCP**, and a few experiments with **on-device AI inference**. Stay tuned, things are getting exciting.
